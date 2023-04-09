@@ -1,0 +1,35 @@
+To publish new files to new repository:
+
+1) Make repo in GitHub
+
+2) git init
+
+3) Paste this in Command Line: git remote add origin https://github.com/San1dh/(Repository Name).git
+   Basically, git remote add origin (GitHub Repository Path).git
+
+4) git status
+ 
+5) git add .
+
+8) git status
+
+7) git commit -m "(Commit Message)"
+
+8) git status
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+To add files to repository:
+
+1) git status
+ 
+2) git add .
+
+3) git status
+
+4) git commit -m "(Commit Message)"
+
+5) git status
+
+
+
